@@ -1,2 +1,2 @@
 # 996company
-996 公司名录
+先开个项目，欢迎 pull requests
